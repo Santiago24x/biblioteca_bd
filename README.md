@@ -2,7 +2,7 @@
 
 # BASE DE DATOS BIBLIOTECA
 
-![Imagen Biblioteca](https://www.comunidadbaratz.com/wp-content/uploads/La-biblioteca-es-inclusion-social-e-igualdad-de-oportunidades.jpg)
+![Imagen Biblioteca](./images/16576.jpg)
 
 ## Modelo Conceptual 
 

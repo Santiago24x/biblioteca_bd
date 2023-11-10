@@ -501,3 +501,35 @@ JOIN pedido p ON tp.id = p.tipoPago_id
 GROUP BY tp.tipo;
 ```
 
+## INSTRUCCIONES DE USO
+
+## 1. Conectar al Servidor de Base de Datos
+
+Abre un cliente de línea de comandos o una interfaz gráfica que te permita conectarte a tu servidor de bases de datos MySQL o MariaDB.
+
+`mysql -u tu_usuario -p`
+
+Reemplaza tu_usuario con el nombre de usuario de tu base de datos.
+
+## 2. Crear la Base de Datos
+
+`CREATE DATABASE nombre_de_tu_base_de_datos;`
+
+Reemplaza nombre_de_tu_base_de_datos con el nombre que desees para tu base de datos.
+
+## 3. Seleccionar la Base de Datos
+
+`USE nombre_de_tu_base_de_datos;`
+
+Esto te permitirá ejecutar comandos dentro de esa base de datos.
+
+## Ejecutar el Script SQL
+
+Puedes copiar el script contenido dentro `bd_biblioteca.sql` y pegarlo en tu consola para generar la ejecucion.
+
+
+## Construido con 🛠️
+
+* [Notion](https://notion.so/es-es/product) - Para el diseño del modelo conceptual utilizamos notion 
+* [Mysql Workbench](https://www.mysql.com/products/workbench/) - Para el diseño fisico
+* [Readme.so](https://readme.so/editor) - Herramienta de construccion de Readme
